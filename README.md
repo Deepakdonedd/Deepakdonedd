@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepakdonedd
 - 🎓 B.E. in Electronics and Telecommunication
-- ☁️ Cloud Enthusiast: AWS (Certified Cloud Practitioner), Azure (Administrator Associate)
-- 🛠️ DevOps Skills: Git, Jenkins, Docker
-- 🐧 Linux Administration
+- ☁️ Cloud Enthusiast: AWS (Certified Cloud Practitioner), Azure (Administrator Associate), RHCSA CERTIFIED.
+- 🛠️ DevOps Skills: Git, Jenkins, Docker, Terraform, Github
+- 🐧 Linux Administration 
 - 💻 Scripting: Python, Bash
 - 📦 Containerization: Docker, Kubernetes
 - 🚀 Passionate about cloud computing and DevOps
